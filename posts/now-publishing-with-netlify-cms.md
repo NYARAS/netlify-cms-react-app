@@ -1,6 +1,6 @@
 ---
 title: Now Publishing With Netlify CMS!
-author: Will Jay
+author: Calvine
 date: 2020-01-05T07:18:52.042Z
 thumbnail: /images/netlifyicon.png
 ---
