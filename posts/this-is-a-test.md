@@ -1,6 +1,6 @@
 ---
 title: This is a Test
-author: Will Jay
+author: Calvine Otieno
 date: 2020-01-03T11:50:02.255Z
 thumbnail: /images/pumpbeerthumb.jpg
 ---
